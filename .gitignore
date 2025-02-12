@@ -1,1 +1,7 @@
 *.txt
+<<<<<<< HEAD
+=======
+*.png
+*.zip
+*.jpg
+>>>>>>> c75d39c (initial upload of all code)
