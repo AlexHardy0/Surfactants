@@ -4,7 +4,7 @@ This repository contains the code developed as part of my PhD work at The Open U
 
 Methods Used:
 
-Finite Difference Method: Applied to model the phase field of the fluid. Used to solve the Langevin equation for particle dynamics.
+Finite Difference Method: Applied to model the phase field of the fluid, concentration and average orientation of surfactants.
 
 Fourier Spectral Method: Employed to solve the velocity field of the fluid.
 
