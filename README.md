@@ -15,7 +15,7 @@ To run the simulation, you will need the following dependencies:
 
 Python 3.10 NumPy Matplotlib
 
-License: Hybrid-Particle-Phase-Field-Simulation © 2024 by Alexandra J Hardy is licensed under CC BY 4.0
+License: Surfactants © 2024 by Alexandra J Hardy is licensed under CC BY 4.0
 
 For any questions or further information, please contact:
 
